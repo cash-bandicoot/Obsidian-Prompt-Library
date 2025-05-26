@@ -21,7 +21,7 @@ A fully-featured React/DataCore component that turns any Obsidian vault into an 
    └─ Prompts/        <-- each prompt is a Markdown file with YAML front-matter
       ├─ My Prompt.md
       └─ …
-└─ PromptLibrary.md <---- Main component (can be embedded into seperate note using datacore)
+PromptLibrary.md <---- Main component (can be embedded into seperate note using datacore - see installation)
 
  ** The component will auto-create Notes/Prompts/ on first save if it does not exist. **
 
